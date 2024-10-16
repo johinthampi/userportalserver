@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "jo",
+      "email": "jo@gmail.com",
+      "password": "jo",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "username": "a",
+      "email": "a@gmail.ocm",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "username": "ab",
+      "email": "ab@gmail.com",
+      "status": 0
+    },
+    {
+      "id": 4,
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "status": 0
+    },
+    {
+      "id": 5,
+      "username": "dfsdsfd",
+      "email": "fdsf",
+      "status": 1
+    },
+    {
+      "id": 6,
+      "username": "fdsfsd",
+      "email": "dsfdsfds",
+      "status": 0
+    },
+    {
+      "id": 9,
+      "username": "gdf",
+      "email": "gdfg",
+      "status": 1
+    }
+  ]
+}
